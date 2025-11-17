@@ -1,9 +1,10 @@
 # Pavlos Vichas
 
-Mechanical engineer graduated from Aristotle University of Thessaloniki<br>
+MEng Mechanical engineer graduated from Aristotle University of Thessaloniki<br>
 Spcialiced in: Aeronautics and aircraft engines<br>
 Expirienced with: Computational Fuid Dynamics, Optimization, Thermal control systems, Aircraft Design
 
+🎯 Recently completed my military service and actively exploring opportunities in aerospace and engineering.
 
 ---
 ## 🔧 Skills & Software
