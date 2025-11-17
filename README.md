@@ -5,13 +5,12 @@ Mechanical engineer specializing in **aeronautics**, **aircraft engines**, and *
 I am passionate about **CFD**, **thermal management**, **optimization**, and **control systems**, and applying engineering principles to real aerospace challenges.
 
 ---
-
 ## 🔧 Skills & Software
 
 <p align="center">
   <!-- Simulation & Analysis -->
   <img src="https://img.shields.io/badge/ANSYS-FF6C37?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS"/>
-  <img src="https://img.shields.io/badge/ANSA-BETA_CAE-0072C6?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSA - BETA CAE"/>
+  <img src="https://img.shields.io/badge/ANSA-BETA_CAE-0082C8?style=for-the-badge&logo=beta-cae&logoColor=white" alt="ANSA - BETA CAE"/>
   <img src="https://img.shields.io/badge/Simcenter_Amesim-2C2C54?style=for-the-badge&logo=siemens&logoColor=white" alt="Simcenter Amesim"/>
   <img src="https://img.shields.io/badge/MATLAB-347AB7?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/>
 </p>
@@ -27,7 +26,7 @@ I am passionate about **CFD**, **thermal management**, **optimization**, and **c
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Office"/>
 </p>
 
----
+
 
 ## 🚀 Experience
 ### **Thermal Management Engineer — Spacedot (AUTh Thessaloniki)**  
