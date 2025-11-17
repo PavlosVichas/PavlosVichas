@@ -1,8 +1,8 @@
 # Pavlos Vichas
 
-Mechanical engineer graduated from Aristotle University of Thessaloniki
-//Spcialiced in: Aeronautics and aircraft engines
-//Expirienced with: Computational Fuid Dynamics, Optimization, Thermal control systems, Aircraft Design
+Mechanical engineer graduated from Aristotle University of Thessaloniki<br>
+Spcialiced in: Aeronautics and aircraft engines<br>
+Expirienced with: Computational Fuid Dynamics, Optimization, Thermal control systems, Aircraft Design
 
 
 ---
@@ -13,7 +13,7 @@ Mechanical engineer graduated from Aristotle University of Thessaloniki
   <img src="https://img.shields.io/badge/ANSYS-222222?style=for-the-badge&logo=ansys&logoColor=FF6C37" alt="ANSYS"/>
   <img src="https://img.shields.io/badge/ANSA-BETA_CAE-005BAC?style=for-the-badge&logoColor=white" alt="ANSA - BETA CAE"/>
   <img src="https://img.shields.io/badge/Simcenter_Amesim-00A3E0?style=for-the-badge&logo=siemens&logoColor=white" alt="Simcenter Amesim"/>
-  <img src="https://img.shields.io/badge/MATLAB-F47F20?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/Simulink-F47F20?style=for-the-badge&logo=matlab&logoColor=white" alt="Simulink"/>
 </p>
 
 <p align="center">
