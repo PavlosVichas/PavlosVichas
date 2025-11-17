@@ -47,7 +47,7 @@ Aristotle University of Thessaloniki
 - Specialization: **Aeronautics & Engines**  
 - Thesis: *CFD-Aided Design and Optimization of a Blended Wing Body Tactical UAV*  
   - Conducted at the **Laboratory of Fluid Mechanics & Turbomachinery (LFMT)**  
-  - 📄 [View Thesis Repository](https://github.com/PavlosVichas/Thesis-repo)  
+  - 📄 [View Thesis Repository](https://github.com/PavlosVichas/-Thesis-repo)  
 
 ---
 
