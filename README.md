@@ -7,9 +7,25 @@ I am passionate about **CFD**, **thermal management**, **optimization**, and **c
 ---
 
 ## 🔧 Skills & Software
-- **Simulation & Analysis:** ANSYS, ANSA (BETA CAE), Simcenter Amesim, MATLAB
-- **Programming:** Python, MATLAB
-- **Other tools:** Microsoft Office
+
+<p align="center">
+  <!-- Simulation & Analysis -->
+  <img src="https://img.shields.io/badge/ANSYS-FF6C37?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS"/>
+  <img src="https://img.shields.io/badge/ANSA-BETA_CAE-0072C6?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSA - BETA CAE"/>
+  <img src="https://img.shields.io/badge/Simcenter_Amesim-2C2C54?style=for-the-badge&logo=siemens&logoColor=white" alt="Simcenter Amesim"/>
+  <img src="https://img.shields.io/badge/MATLAB-347AB7?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/>
+</p>
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-347AB7?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/>
+</p>
+
+<p align="center">
+  <!-- Other tools -->
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Office"/>
+</p>
 
 ---
 
