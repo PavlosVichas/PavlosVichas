@@ -29,11 +29,10 @@ Expirienced with: Computational Fuid Dynamics, Optimization, Thermal control sys
 
 
 ## 🚀 Experience
-### **Thermal Management Engineer — Spacedot (AUTh Thessaloniki)**  
-*Sept 2022 – March 2024*  
+### **Thermal Management Engineer — Spacedot (AUTh Thessaloniki)**   
 - Developed passive and active thermal control systems for orbital conditions  
 - Ran thermal load simulations using **ANSYS**, **MATLAB**, **ESATAN**  
-- Presented work at the **ESA ESTEC International Thermal Management Conference** (Netherlands)
+- Presented work at the **ESA ESTEC International Thermal Management Conference** 
 
 
 
@@ -41,7 +40,7 @@ Expirienced with: Computational Fuid Dynamics, Optimization, Thermal control sys
 
 ## 🎓 Education
 
-**MEng – Mechanical Engineering (2019–2025)**  
+**MEng – Mechanical Engineering**  
 Aristotle University of Thessaloniki  
 
 - Specialization: **Aeronautics & Engines**  
