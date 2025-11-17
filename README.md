@@ -1,8 +1,9 @@
-## Hi there 👋
-# 👋 Hi, I'm Pavlos Vichas
+# Pavlos Vichas
 
-Mechanical engineer specializing in **aeronautics**, **aircraft engines**, and **advanced simulation technologies**.  
-I am passionate about **CFD**, **thermal management**, **optimization**, and **control systems**, and applying engineering principles to real aerospace challenges.
+Mechanical engineer graduated from Aristotle University of Thessaloniki
+Spcialiced in: Aeronautics and aircraft engines
+Expirienced with: Computational Fuid Dynamics, Optimization, Thermal control systems, Aircraft Design
+
 
 ---
 ## 🔧 Skills & Software
@@ -39,11 +40,14 @@ I am passionate about **CFD**, **thermal management**, **optimization**, and **c
 ---
 
 ## 🎓 Education
+
 **MEng – Mechanical Engineering (2019–2025)**  
 Aristotle University of Thessaloniki  
+
 - Specialization: **Aeronautics & Engines**  
-- Thesis: *CFD-aided design and optimization of a Blended Wing Body tactical UAV*  
-  - Conducted at the **Laboratory of Fluid Mechanics & Turbomachinery**
+- Thesis: *CFD-Aided Design and Optimization of a Blended Wing Body Tactical UAV*  
+  - Conducted at the **Laboratory of Fluid Mechanics & Turbomachinery (LFMT)**  
+  - 📄 [View Thesis Repository](https://github.com/PavlosVichas/Thesis-repo)  
 
 ---
 
