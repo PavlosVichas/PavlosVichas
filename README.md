@@ -64,3 +64,5 @@ Aristotle University of Thessaloniki
 - **Email:** paulvichas24@gmail.com  
 - **Location:** Thessaloniki, Greece  
 
+### 📫 Reach Me
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pavlos-vichas-99a01a276/)
